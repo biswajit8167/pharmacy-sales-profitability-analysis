@@ -51,7 +51,7 @@ The dashboard helps identify:
 - Pharmacy Ranking
 - Regional Contribution
 
-![Regional Dashboard](screenshots/regional_analysis.png)
+![image alt](https://github.com/biswajit8167/pharmacy-sales-profitability-analysis/blob/a31ad686454f45c192b2b9608237cf52971b15be/screenshot/Screenshot%20(4).png)
 
 ---
 
