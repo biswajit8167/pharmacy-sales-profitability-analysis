@@ -63,7 +63,7 @@ The dashboard helps identify:
 - Product Ranking
 - Margin Analysis
 
-![Performance Dashboard](screenshots/performance_analysis.png)
+![image alt](https://github.com/biswajit8167/pharmacy-sales-profitability-analysis/blob/9fc150f81c6780d396d0f5732bfa954a2b037ecb/screenshot/Screenshot%20(5).png)
 
 ---
 
