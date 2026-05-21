@@ -39,7 +39,7 @@ The dashboard helps identify:
 - Brand Analysis
 - Pharmacy Ranking
 
-![Overview Dashboard](https://github.com/biswajit8167/pharmacy-sales-profitability-analysis/blob/f1729f50c575d94334294612bcb276312ddbe5ef/screenshot/Screenshot%20(3).png
+![image alt](https://github.com/biswajit8167/pharmacy-sales-profitability-analysis/blob/f1729f50c575d94334294612bcb276312ddbe5ef/screenshot/Screenshot%20(3).png)
 
 ---
 
