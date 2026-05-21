@@ -1,4 +1,4 @@
-# pharmacy-sales-profitability-analysis
+# pharmacy-sales-profitability-analysis( power bi and sql project)
 # Pharmacy Sales & Profitability Analysis Dashboard
 
 ## Project Overview
@@ -85,7 +85,7 @@ The dashboard helps identify:
 - Top Regions
 - Geographic Revenue Distribution
 
-![Geography Dashboard](screenshots/geography_analysis.png)
+![image alt](https://github.com/biswajit8167/pharmacy-sales-profitability-analysis/blob/7f8cfc4314906c8260389e7f104e0d5549bde7bd/screenshot/Screenshot%20(7).png)
 
 ---
 
