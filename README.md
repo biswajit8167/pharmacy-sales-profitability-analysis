@@ -74,7 +74,7 @@ The dashboard helps identify:
 - Promotion Profitability
 - Category-wise Promotion Analysis
 
-![Promotion Dashboard](screenshots/promotion_analysis.png)
+![image alt](https://github.com/biswajit8167/pharmacy-sales-profitability-analysis/blob/65ab20238a6a1cfd5503cad205de9087c6d1b2db/screenshot/Screenshot%20(6).png)
 
 ---
 
